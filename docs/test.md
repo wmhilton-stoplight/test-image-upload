@@ -6,6 +6,6 @@ stoplight-id: qac3cpx52euxy
 
 The beginning of an awesome article...
 
-![SoBeautiful.gif](../assets/images/Patrick7.gif)
+![SoBeautiful.gif](../assets/images/Patrick8.gif)
 
 ![Two Hours Later](../assets/images/TwoHoursLater.jpg)
