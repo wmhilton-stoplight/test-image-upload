@@ -12,4 +12,3 @@ The beginning of an awesome article...
 
 ![MobileSafari.jpg](../assets/images/MobileSafari.jpg)
 
-asdf
