@@ -11,3 +11,5 @@ The beginning of an awesome article...
 ![Two Hours Later](../assets/images/TwoHoursLater.jpg)
 
 ![MobileSafari.jpg](../assets/images/MobileSafari.jpg)
+
+asdf
